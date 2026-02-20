@@ -5,4 +5,3 @@ Console.WriteLine("Usando GIT v1");
 
 Console.WriteLine("Johana Andrea Salazar Ortiz");
 
-Console.WriteLine("Código 90598");
